@@ -1,2 +1,2 @@
-# DishSamnaff2021SE
+#2021SE
 Following Dan Shiffman Intro to Git &amp; Github
